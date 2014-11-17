@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImprovedNotifications</string>
+    <string name="title_activity_activated">ActivatedActivity</string>
+
+    <string name="message">Hi"!" I"'"m the activated activity</string>
+    <string name="button_text">Try me for a new notification</string>
+
+    <string name="notification_title">Hey Mom"!" I"'""m a title</string>
+    <string name="notification_text">Look at me"!" I"'"m a notification content</string>
+    <string name="first_action">Let"'"s see the author"'"s twitter profile</string>
+
+    <string name="wearable_action">I only appear here</string>
+</resources>
