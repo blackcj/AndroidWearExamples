@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceCommands</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="message">Hi"!" I"'"m the activated activity</string>
+    <string name="button_text">Try me for a new notification</string>
+
+    <string name="notification_title">Light on at Home</string>
+    <string name="notification_text">Turn it off?</string>
+    <string name="reply_label">Reply</string>
+    <string name="label">Reply</string>
+
+    <string name="wearable_action">I only appear here</string>
+
+    <string-array name="reply_choices">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Snooze</item>
+    </string-array>
+</resources>
